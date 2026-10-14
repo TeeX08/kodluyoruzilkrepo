@@ -1,2 +1,5 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Yazılım Öğreniyorum
+Kodluyoruz Eğitimi kapsamında açtığım ilk repodur.
+HTML-CSS
+
+
